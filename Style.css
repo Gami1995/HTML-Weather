@@ -1,0 +1,96 @@
+h1 {
+    color:blue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 34px;
+}
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 34px;
+}
+h3 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: all 200ms ease-in-out;
+    padding: 10px 0;
+}
+li {
+    display: list-item;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+    list-style-type: disc;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 0;
+}
+p {
+    font-size: 18px;
+    opacity: 0.7;
+    text-align: center;
+    font-family: monospace;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    transition: all 200ms ease-in-out;
+    padding: 10px 0;
+}
+button {
+    display: block;
+    margin: 20px auto;
+    border: 1px solid #1a64d6;
+    background: #1a64d6;
+    color: #fff;
+    font-size: 16px;
+    line-height: 22px;
+    padding: 16px 24px;
+    border-radius: 30px;
+    transition: all 200ms ease;
+    box-shadow: rgb(37 39 89 / 8%) 0px 8px 8px 0;
+    cursor: pointer;
+    align-items: center;
+}
+button:hover {
+    display: block;
+    margin: 20px auto;
+    border: 1px solid #1a64d6;
+    background: #fff;
+    color:#1a64d6;
+    font-size: 16px;
+    line-height: 22px;
+    padding: 16px 24px;
+    border-radius: 30px;
+    transition: all 200ms ease;
+    box-shadow: rgb(37 39 89 / 8%) 0px 8px 8px 0;
+    cursor: pointer;
+    align-items: center;
+}
+p:hover {
+    list-style: none;
+    text-align: center;
+    border-radius: 10px;
+    max-width: 400px;
+    margin: 0 auto;
+    background-color:#F9CC9D;
+    font-size: 18px;
+    opacity: 0.7;
+    text-align: center;
+    font-family: monospace;
+    padding: 10px 0;
+}
+h3:hover{
+    list-style: none;
+    text-align: center;
+    border-radius: 10px;
+    max-width: 400px;
+    margin: 0 auto;
+    background-color:#F9CC9D;
+    font-size: 18px;
+    opacity: 0.7;
+    text-align: center;
+    font-family: monospace;
+    padding: 10px 0;
+}
